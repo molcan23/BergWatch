@@ -1,6 +1,7 @@
 # BergWatch
 
-💎 Idea
+####💎 Idea
+
 Imagine floating by on top of an iceberg, in the middle of the ocean; the northern lights covering the picturesque sky and it all while being in the middle of the arctic ocean. We invite you to turn this dream into reality, all the while supporting the local arctic community and the environment.
  
 We develop a new exciting way to experience the arctic and to experience our planet. In this, we provide two-tier services: an exclusive arctic paradise for our premium customers and a youth arctic climate showcase bringing our youth close to the arctic, where the brunt of climate change is often felt the worst. Our hope is, by influencing these two key customer groups: premium customers who will likely be people of influence and changemakers, and the youth who are the future of our planet, we induce a significant climate conversation.
@@ -9,10 +10,12 @@ We envision to organize ourselves as a technology company, partnering ourselves 
  
 A big proportion of the profit from the premium users will be redistributed to the community, to uplift the living of the indigenous community and to protect the Arctic environment. Utmost care will be taken in our venture to ensure minimal impact on the environment, using natural amenities as much as possible; and our customer experiences will be designed in a way to bring climate awareness and hopefully induce lasting behavioral change to tackle the climate crisis.
  
-🚀 EU space technologies
+####🚀 EU space technologies
+
 We exploit the Copernicus Marine Service Arctic Ocean Sea Ice Analysis and Forecast data, to detect large floating sea ice, and to detect the trajectory of these sea ice. The selected sea ice, whose safety criteria have been satisfied and whose trajectory is well understood will be used for our arctic experience venture.
  
-❄️ Connecting the Arctic
+###❄️ Connecting the Arctic
+
 We are solving the “safe passage at sea” hackathon challenge while also creating a new exciting tourism industry around it; by detecting and implementing sea ice travel ventures on large and safe sea ice trajectories. 
  
 Further, our business model will be designed in a way to contribute to the local arctic community and the environment. Few approaches we take in this regard will be:
@@ -25,6 +28,7 @@ Further, our business model will be designed in a way to contribute to the local
 </ul>
  
 ### Team 
+
 **Samuel Molčan** (*GIS, Coding*): Ph.D. candidate in Computer Engineering; Experienced programmer/machine learning expert.
 
 **Amin Shakya** (*GIS, Coding*): Has a double master’s degree in disaster risk management; interested in the tech-for-good market space.
