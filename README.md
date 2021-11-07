@@ -18,9 +18,13 @@ Further, our business model will be designed in a way to contribute to the local
  
 ### Team 
 Samuel Molčan (GIS, Coding): Ph.D. candidate in Computer Engineering; Experienced programmer/machine learning expert.
+
 Amin Shakya (GIS, Coding): Has a double master’s degree in disaster risk management; interested in the tech-for-good market space.
+
 Ivan Mrekaj (Society-science interface): Climate and environmental scientist with a forestry background, focused on phenology, drought in forest ecosystems, and climate change.
+
 Tatiana Telecká (Business Development, Marketing): Mechanical engineer with expert experience in manufacturing production, assembly, and marketing.
+
 Pavel Kubíček (Business development, Marketing): Student of trade and business with a specialization in agricultural technology.
 
 
