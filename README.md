@@ -1,5 +1,6 @@
 # BergWatch
 
+💎 Idea
 Imagine floating by on top of an iceberg, in the middle of the ocean; the northern lights covering the picturesque sky and it all while being in the middle of the arctic ocean. We invite you to turn this dream into reality, all the while supporting the local arctic community and the environment.
  
 We develop a new exciting way to experience the arctic and to experience our planet. In this, we provide two-tier services: an exclusive arctic paradise for our premium customers and a youth arctic climate showcase bringing our youth close to the arctic, where the brunt of climate change is often felt the worst. Our hope is, by influencing these two key customer groups: premium customers who will likely be people of influence and changemakers, and the youth who are the future of our planet, we induce a significant climate conversation.
