@@ -28,6 +28,12 @@ Further, our business model will be designed in a way to contribute to the local
 **Pavel Kubíček** (*Business development, Marketing*): Student of trade and business with a specialization in agricultural technology.
 
 
+## Floating ice thickness trough time from Copernicus data
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/VETvnhpDNrU)
+
+
+
 ## Datasets
 
 Datasets can be downloaded by two APIs.
