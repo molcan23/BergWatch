@@ -2,11 +2,13 @@
 
 ### 💎 Idea
 
-Imagine floating by on top of an iceberg, in the middle of the ocean; the northern lights covering the picturesque sky and it all while being in the middle of the arctic ocean. We invite you to turn this dream into reality, all the while supporting the local arctic community and the environment.
+We envision to organize ourselves as a technology company, partnering ourselves up with existing travel companies. Our introduction to the market brings added value to the industry with our technological intelligence: offering a unique iceberg vacation experience, detecting likely northern light, meteor shower and observing the stars
  
-We develop a new exciting way to experience the arctic and to experience our planet. In this, we provide two-tier services: an exclusive arctic paradise for our premium customers and a youth arctic climate showcase bringing our youth close to the arctic, where the brunt of climate change is often felt the worst. Our hope is, by influencing these two key customer groups: premium customers who will likely be people of influence and changemakers, and the youth who are the future of our planet, we induce a significant climate conversation.
+We develop a new exciting way to experience the arctic and to experience our planet. In this, we cover 2 programs: 
+Exclusive arctic trip for our premium customers. 
+Youth arctic expedition for students as collaboration with international organizations.
  
-We envision to organize ourselves as a technology company, partnering ourselves up with existing Nordic travel companies. Our introduction to the market brings added value to the industry with our technological intelligence: offering a unique iceberg vacation experience, detecting likely northern light events or meteor showers, etc.
+We believe by influencing these two key customer groups: premium customers who will likely be people of influence and changemakers, and the youth who are the future of our planet, we induce a significant climate conversation.
  
 A big proportion of the profit from the premium users will be redistributed to the community, to uplift the living of the indigenous community and to protect the Arctic environment. Utmost care will be taken in our venture to ensure minimal impact on the environment, using natural amenities as much as possible; and our customer experiences will be designed in a way to bring climate awareness and hopefully induce lasting behavioral change to tackle the climate crisis.
  
