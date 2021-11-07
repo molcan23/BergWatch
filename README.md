@@ -8,13 +8,20 @@ We envision to organize ourselves as a technology company, partnering ourselves 
  
 A big proportion of the profit from the premium users will be redistributed to the community, to uplift the living of the indigenous community and to protect the Arctic environment. Utmost care will be taken in our venture to ensure minimal impact on the environment, using natural amenities as much as possible; and our customer experiences will be designed in a way to bring climate awareness and hopefully induce lasting behavioral change to tackle the climate crisis.
  
-## 🚀 EU space technologies
+🚀 EU space technologies
 We exploit the Copernicus Marine Service Arctic Ocean Sea Ice Analysis and Forecast data, to detect large floating sea ice, and to detect the trajectory of these sea ice. The selected sea ice, whose safety criteria have been satisfied and whose trajectory is well understood will be used for our arctic experience venture.
  
-## ❄️ Connecting the Arctic
-We are solving the “safe passage at sea” hackathon challenge while creating a new exciting tourism industry around it; by detecting and implementing sea ice travel ventures on large and safe sea ice trajectories. 
+❄️ Connecting the Arctic
+We are solving the “safe passage at sea” hackathon challenge while also creating a new exciting tourism industry around it; by detecting and implementing sea ice travel ventures on large and safe sea ice trajectories. 
  
-Further, our business model will be designed in a way to contribute to the local arctic community and the environment.
+Further, our business model will be designed in a way to contribute to the local arctic community and the environment. Few approaches we take in this regard will be:
+ 
+<ul>
+<li>Pay attention to global warming - to show the tourist the real life on arctic, the risk iceberg changes to support environmental  behavior in daily life </li>
+<li>Improve education of younger generation - once you experience it by your own, you will be more focused on nature and issues regarding global warming around you </li>
+<li>Target investment for further arctic development </li>
+<li>Local person will be on a tourist boat to tell stories about local life - within we give salary or something what they need to local and support the arctic community </li>
+</ul>
  
 ### Team 
 **Samuel Molčan** (*GIS, Coding*): Ph.D. candidate in Computer Engineering; Experienced programmer/machine learning expert.
@@ -31,7 +38,8 @@ Further, our business model will be designed in a way to contribute to the local
 ### Thickness of floating ice over time from Copernicus data
 
 [Greenland - Iceland area](https://youtu.be/VETvnhpDNrU)
-[North Sweeden area]().
+
+[North Sweeden area](https://youtu.be/LiMHgjieDro)
 
 
 ## Datasets
